@@ -1,2 +1,3 @@
-# 
-EL negro es un negro muy tonto
+#Ignorar esto
+es para hacer pruebas de git 
+:v
